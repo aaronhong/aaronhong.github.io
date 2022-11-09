@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aaron Hong"
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   bio              : "I'm working on it"
   location         : "Chicago, IL"
   employer         :
@@ -93,6 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
+  docker           : https://hub.docker.com/u/aahong
   flickr           :
   facebook         :
   foursquare       :

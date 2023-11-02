@@ -7,4 +7,6 @@ redirect_from:
   - /research.html
 ---
 
-Forthcoming :)
+*Works in Progress*
+> * "Measuring Well-Being and the Effects of Transfers Using Linked Consumer Expenditure and
+Administrative Data" (with Bruce Meyer, Connacher Murphy, James X. Sullivan, and Derek Wu)

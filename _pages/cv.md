@@ -1,6 +1,6 @@
 ---
 title: "CV"
-permalink: /files/aahong_cv_20231102.pdf
+permalink: /files/aahong_cv.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](../files/aahong_cv_20231102.pdf)
+[CV](../files/aahong_cv.pdf)
